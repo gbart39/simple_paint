@@ -1,0 +1,65 @@
+
+#canvas { 
+	border: 4px solid black;
+}
+
+#button1 {
+	color: red;
+	background-color: #989c9b;
+	width: 70px;
+	height: 50px;
+}
+#button2 {
+	color: purple;
+	background-color: #989c9b;
+	width: 70px;
+	height: 50px;
+}
+#button3 {
+	color: green;
+	background-color: #989c9b;
+	width: 70px;
+	height: 50px;
+}
+#button4 {
+	color: blue;
+	background-color: #989c9b;
+	width: 70px;
+	height: 50px;
+}
+#button5 {
+	color: yellow;
+	background-color: #989c9b;
+	width: 70px;
+	height: 50px;
+}
+#button6 {
+	color: black;
+	background-color: #989c9b;
+	width: 70px;
+	height: 50px;
+}
+#button7 {
+	color: white;
+	background-color: #989c9b;
+	width: 217px;
+	height: 30px;
+}
+#button8 {
+	color: white;
+	background-color: #989c9b;
+	width: 145px;
+	height: 30px;
+}
+#button9 {
+	color: black;
+	background-color: #989c9b;
+	width: 33px;
+	height: 30px;
+}
+#button10 {
+	color: black;
+	background-color: #989c9b;
+	width: 33px;
+	height: 30px;
+}
